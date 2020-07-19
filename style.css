@@ -1,0 +1,173 @@
+body {
+    background-color:#EF496F;   
+  }
+
+  .img-logo {
+    width:180px;
+    position: relative;
+    right:450px;
+    
+    }
+
+  table{
+      
+      color:white;
+      font-family: Arial;
+      font-size:15px;
+      text-indent: 40px;
+      float:right;
+      text-decoration: none;
+      
+      
+  }
+  .how-it-works{
+
+    text-decoration: none;
+    color:white;
+      font-family: Arial;
+      font-size:15px;
+      font-weight: 1;
+
+  }
+
+  .funds{
+
+    text-decoration: none;
+    color:white;
+      font-family: Arial;
+      font-size:15px;
+      font-weight: 1;
+
+  }
+  
+  .companies{
+
+    text-decoration: none;
+    color:white;
+      font-family: Arial;
+      font-size:15px;
+      font-weight: 1;
+
+  }
+
+  .gifts{
+
+    text-decoration: none;
+    color:white;
+      font-family: Arial;
+      font-size:15px;
+      font-weight: 1;
+
+  }
+  .blog{
+
+    text-decoration: none;
+    color:white;
+      font-family: Arial;
+      font-size:15px;
+      font-weight: 1;
+
+  }
+  .login{
+
+    text-decoration: none;
+    color:white;
+      font-family: Arial;
+      font-size:15px;
+      font-weight: 1;
+
+  }
+  .sign-up{
+
+    text-decoration: none;
+    color:white;
+      font-family: Arial;
+      font-size:25px;
+      border: solid 3px white;
+      border-radius: 30px;
+      padding: 10px 30px;
+      font-weight: 1;
+
+  }
+
+
+  h1{
+
+    padding-top: 100px;
+    padding-left: 120px;
+    color:white;
+    font-family:'Arial';
+    font-size:70px;
+    
+
+  }
+
+  .para-1{
+
+    padding-top: 5px;
+    padding-left: 120px;
+    padding-bottom: 50px;
+
+
+    color:white;
+    font-family: Arial;
+    font-size:20px;
+
+  }
+
+  .invest-button{
+
+    text-decoration: inherit;
+    color:#413e63;
+    font-family: Arial;
+    font-weight: 1;
+    font-size:20px;
+
+    position:relative;
+    left:50px;
+    border-radius:30px;
+    padding:10px 30px;
+    border: solid 3px #FEEF92;
+    background-color: #FEEF92;
+
+
+  }
+
+  .img-phone{
+
+    width:400px;
+    position: absolute;
+    top: 100px;
+    right: 200px;
+   
+  }
+
+  .disclaimer{
+
+    color:white;
+    font-family: Arial;
+    font-size:10px;
+    position:relative;
+    left:950px;
+    bottom:-130px;
+
+  }
+
+ .review{
+
+    color:white;
+    font-family: Arial;
+    font-size:30px;
+    font-weight:1;
+    text-align: center;
+    padding:150px;
+ }
+
+ .sponsors{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:1000px;
+
+ }
